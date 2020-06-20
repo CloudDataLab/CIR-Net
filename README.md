@@ -6,14 +6,9 @@ Everyone can freely use the code and dataset for research and non-commerce appli
 
 Bibtex:
 ```latex
-@inproceedings{CIR_Net2020,
-	title={CIR-Net: Automatic Classification of Human Chromosome based on Inception-ResNet Architecture},
-	author={Chengchuang, Lin and Gansen, Zhao and Zhirong, Yang and Aihua, Yin and Xinming, Wang and Li, Guo and Hanbiao, Chen and Zhaohui, Ma and Lei, Zhao and Haoyu, Luo and Tianxing, Wang and Bichao, Ding and Xiongwen, Pang and Qiren, Chen},
-	booktitle={The 18th Asia Pacific Bioinformatics Conference},
-	year={2020},
-}
+@ARTICLE{9120197,  author={C. {Lin} and G. {Zhao} and Z. {Yang} and A. {Yin} and X. {Wang} and L. {Guo} and H. {Chen} and Z. {Ma} and L. {Zhao} and H. {Luo} and T. {Wang} and B. {Ding} and X. {Pang} and Q. {Chen}},  journal={IEEE/ACM Transactions on Computational Biology and Bioinformatics},   title={CIR-Net: Automatic Classification of Human Chromosome based on Inception-ResNet Architecture},   year={2020},  volume={},  number={},  pages={1-1},}
 ```
 or GB/T:
 ```latex
-C. Lin, G. Zhao, Z. Yang ,et al. CIR-Net: Automatic Classification of Human Chromosome based on Inception-ResNet Architecture[C]//The 18th Asia Pacific Bioinformatics Conference. 2020.
+C. Lin et al., "CIR-Net: Automatic Classification of Human Chromosome based on Inception-ResNet Architecture," in IEEE/ACM Transactions on Computational Biology and Bioinformatics, doi: 10.1109/TCBB.2020.3003445.
 ```
